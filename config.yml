@@ -11,7 +11,7 @@ keywords:
 author: starrylord.ch
 date:
   format: j F Y
-  timezone: Europe/Zürich
+  timezone: Europe/Zurich
 hyde:
   sidebar:
     sticky: true
