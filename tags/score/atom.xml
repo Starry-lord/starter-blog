@@ -12,19 +12,8 @@
     <uri>https://deathbyneon.netlify.app</uri>
   </author>
   <entry xml:lang="en">
-    <id>https://deathbyneon.netlify.app/blog/draft-example/</id>
-    <title>This Old Machine</title>
-    <content type="html">
-      <![CDATA[<p>I composed the music for this movie in my diy studio, listen to it here:</p>
-<p>(Player)</p>]]>
-    </content>
-    <link href="https://deathbyneon.netlify.app/blog/draft-example/" rel="alternate" type="text/html" />
-    <published>2022-07-27T00:00:00+02:00</published>
-    <updated>2022-07-27T00:00:00+02:00</updated>
-  </entry>
-  <entry xml:lang="en">
     <id>https://deathbyneon.netlify.app/blog/daft-punk/</id>
-    <title>Daft Punk</title>
+    <title>Shark Fest</title>
     <content type="html">
       <![CDATA[<p><strong>Daft Punk</strong> is a French <a href="https://en.m.wikipedia.org/wiki/Electronic_music">electronic music</a> duo formed in Paris in 1993 by <a href="https://en.m.wikipedia.org/wiki/Guy-Manuel_de_Homem-Christo">Guy-Manuel de Homem-Christo</a> and <a href="https://en.m.wikipedia.org/wiki/Thomas_Bangalter">Thomas Bangalter</a>. They achieved popularity in the late 1990s as part of the <a href="https://en.m.wikipedia.org/wiki/French_house">French house</a> movement; they also had success in the years following, combining elements of <a href="https://en.m.wikipedia.org/wiki/House_music">house music</a> with <a href="https://en.m.wikipedia.org/wiki/Funk">funk</a>, <a href="https://en.m.wikipedia.org/wiki/Techno">techno</a>, <a href="https://en.m.wikipedia.org/wiki/Disco">disco</a>, rock and <a href="https://en.m.wikipedia.org/wiki/Synthpop">synthpop</a>. They have worn ornate helmets and gloves to assume <a href="https://en.m.wikipedia.org/wiki/Robot">robot</a> personas in most public appearances since 1999 and rarely grant interviews or appear on television. The duo were managed from 1996 to 2008 by <a href="https://en.m.wikipedia.org/wiki/Pedro_Winter">Pedro Winter</a> (also known as Busy P), the head of <a href="https://en.m.wikipedia.org/wiki/Ed_Banger_Records">Ed Banger Records</a>.</p>
 <!-- excerpt -->
@@ -35,7 +24,18 @@
 </blockquote>]]>
     </content>
     <link href="https://deathbyneon.netlify.app/blog/daft-punk/" rel="alternate" type="text/html" />
-    <published>2020-02-05T15:43:00+01:00</published>
-    <updated>2020-02-05T15:43:00+01:00</updated>
+    <published>2022-07-27T00:00:00+02:00</published>
+    <updated>2022-07-27T00:00:00+02:00</updated>
+  </entry>
+  <entry xml:lang="en">
+    <id>https://deathbyneon.netlify.app/blog/draft-example/</id>
+    <title>This Old Machine</title>
+    <content type="html">
+      <![CDATA[<p>I composed the music for this movie in my diy studio, listen to it here:</p>
+<p>(Player)</p>]]>
+    </content>
+    <link href="https://deathbyneon.netlify.app/blog/draft-example/" rel="alternate" type="text/html" />
+    <published>2022-07-27T00:00:00+02:00</published>
+    <updated>2022-07-27T00:00:00+02:00</updated>
   </entry>
 </feed>
