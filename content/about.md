@@ -1,22 +1,22 @@
 ---
-title: About
+title: About Death By Neon
 date: 2019-07-09
 menu:
   main:
     weight: 999
+draft: true
 ---
-> A ready to use static blog, powered by [Cecil](https://cecil.app).
+> La vie c'est de la merde Georgie, alors retourne travailler!
 
-## How to use?
+## About Death By Neon
 
-### Managing content with [Forestry](https://forestry.io)
+### Self taught, retro oriented
 
-If your goal is managing content quickly, and decide later where to deploy to it, use the following button to import the starter blog to Forestry CMS and start editing immediatelly!
+As a Swiss citizen, Death By Neon has had a lot of time to enjoy the Mountains. Except he has always prefered watching horror movies instead. Since an early age, he was always pressuring his parents to watch mature rated horror movies that were the current fuss. With a watch-time simply impossible to calculate, he managed to acquire a deep passion and interest for movie scores, and synthetizer made music, from old school berlin school, to the midnight, in more recent times.
 
-[![Import this project into Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://cecil.app/cms/forestry/import/)
+Death By Neon has also contributed to the american movie industry a couple times, crafting music to fortify scenes and ambiances, as well as making memorable themes.
 
-### Deploy with [Netlify](https://www.netlify.com)
+### Work with Death By Neon
 
-Otherwise, if your goal is deploying a new blog quickly, and manage content mannually, use the following button to configure and deploy your new blog on Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Cecilapp/the-butler&stack=cms)
+You can contact Mr. Neon at the following phone number +080085
+or send him a mail here : (neon@deathbyneon.com)
