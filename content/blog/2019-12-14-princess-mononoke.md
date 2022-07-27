@@ -1,6 +1,6 @@
 ---
-title: Princess Mononoke
-date: 2020-03-09
+title: Tuto
+date: 2022-07-27T00:00:00+02:00
 image: "/images/nic-cage.jpg"
 tags:
 - Film
