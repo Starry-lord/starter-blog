@@ -1,8 +1,10 @@
 ---
-title: "Draft example"
-date: 2020-10-14T16:34:00.000Z
-image: /images/butler.jpg
-draft: true
----
+title: This Old Machine
+date: 2022-07-27T00:00:00+02:00
+image: "/images/this_old_machine.jpg"
+draft: false
 
-This is a draft.
+---
+Composer for this movie, listen to it here:
+
+(Player)
