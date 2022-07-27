@@ -18,4 +18,4 @@ Death By Neon has also contributed to the American movie industry a couple times
 ### Work with Death By Neon
 
 You can contact Mr. Neon at the following phone number +080085
-or send him a mail here : [Mail](neon@deathbyneon.com)
+or send him a mail here : [Mail](mailto:neon@deathbyneon.com?subject=I want you for my next movie!)
