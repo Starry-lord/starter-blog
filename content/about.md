@@ -1,5 +1,5 @@
 ---
-title: About Death By Neon
+title: About
 date: 2019-07-09
 menu:
   main:
