@@ -1,13 +1,11 @@
 ---
-title: About
+title: About Death By Neon
 date: 2022-07-27T06:00:00+02:00
 menu: main
 draft: false
 
 ---
 > La vie c'est de la merde Georgie, alors retourne travailler!
-
-## About Death By Neon
 
 ### Self taught, retro oriented
 
