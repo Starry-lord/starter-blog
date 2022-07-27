@@ -6,11 +6,30 @@
   <subtitle><![CDATA[Artist DeathByNeon's music page]]></subtitle>
   <link href="https://deathbyneon.netlify.app/atom.xml" rel="self" type="application/atom+xml" />
   <link href="https://deathbyneon.netlify.app/" rel="alternate" type="text/html" />
-  <updated>2020-03-09T01:00:00+01:00</updated>
+  <updated>2022-07-27T06:00:00+02:00</updated>
   <author>
     <name>Death By Neon</name>
     <uri>https://deathbyneon.netlify.app</uri>
   </author>
+  <entry xml:lang="en">
+    <id>https://deathbyneon.netlify.app/about/</id>
+    <title>About</title>
+    <content type="html">
+      <![CDATA[<blockquote>
+<p>La vie c'est de la merde Georgie, alors retourne travailler!</p>
+</blockquote>
+<h2 id="about-death-by-neon">About Death By Neon</h2>
+<h3 id="self-taught-retro-oriented">Self taught, retro oriented</h3>
+<p>As a Swiss citizen, Death By Neon has had a lot of time to enjoy the Mountains. Except he has always prefered watching horror movies instead. Since an early age, he was always pressuring his parents to watch mature rated horror movies that were the current fuss. With a watch-time simply impossible to calculate, he managed to acquire a deep passion and interest for movie scores, and synthetizer made music, from old school berlin school, to the midnight, in more recent times.</p>
+<p>Death By Neon has also contributed to the American movie industry a couple times, crafting music to fortify scenes and ambiances, as well as making memorable themes.</p>
+<h3 id="work-with-death-by-neon">Work with Death By Neon</h3>
+<p>You can contact Mr. Neon at the following phone number +080085
+or send him a mail here : (neon@deathbyneon.com)</p>]]>
+    </content>
+    <link href="https://deathbyneon.netlify.app/about/" rel="alternate" type="text/html" />
+    <published>2022-07-27T06:00:00+02:00</published>
+    <updated>2022-07-27T06:00:00+02:00</updated>
+  </entry>
   <entry xml:lang="en">
     <id>https://deathbyneon.netlify.app/blog/princess-mononoke/</id>
     <title>Princess Mononoke</title>
