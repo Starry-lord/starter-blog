@@ -1,9 +1,10 @@
 ---
 baseline: Death By Neon Music
 theme:
-- score
-- artist
-- music
+- netlify-cms
+- netlify
+- hyde
+- garth
 keywords:
 - artist page
 - Death By Neon
