@@ -1,20 +1,20 @@
+---
 baseline: Death By Neon Music
 theme:
-  - hyde
-  - hyde-cms
-  - netlify
+- score
+- artist
+- music
 keywords:
-  - Cecil
-  - Static Site Generator
-  - SSG
-author: Arnaud Ligny
+- artist page
+- Death By Neon
+author: starrylord.ch
 date:
   format: j F Y
-  timezone: Europe/Paris
+  timezone: Europe/Zürich
 hyde:
   sidebar:
     sticky: true
-  theme: ""
+  theme: ''
   reverse: false
 title: Death By Neon
 description: Artist DeathByNeon's music page
