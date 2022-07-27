@@ -5,6 +5,6 @@ image: "/images/this_old_machine.jpg"
 draft: false
 
 ---
-Composer for this movie, listen to it here:
+I composed the music for this movie in my diy studio, listen to it here:
 
 (Player)
