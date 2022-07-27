@@ -4,7 +4,6 @@ date: 2020-03-09
 image: "/images/nic-cage.jpg"
 tags:
 - Film
-- Animated
 draft: false
 
 ---
