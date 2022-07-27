@@ -18,5 +18,5 @@ hyde:
   reverse: false
 title: Death By Neon
 description: Artist DeathByNeon's music page
-baseurl: /
+baseurl: https://deathbyneon.netlify.app
 canonicalurl: true
