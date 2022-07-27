@@ -42,6 +42,17 @@
     <updated>2022-07-27T00:00:00+02:00</updated>
   </entry>
   <entry xml:lang="en">
+    <id>https://deathbyneon.netlify.app/blog/draft-example/</id>
+    <title>This Old Machine</title>
+    <content type="html">
+      <![CDATA[<p>Composer for this movie, listen to it here:</p>
+<p>(Player)</p>]]>
+    </content>
+    <link href="https://deathbyneon.netlify.app/blog/draft-example/" rel="alternate" type="text/html" />
+    <published>2022-07-27T00:00:00+02:00</published>
+    <updated>2022-07-27T00:00:00+02:00</updated>
+  </entry>
+  <entry xml:lang="en">
     <id>https://deathbyneon.netlify.app/blog/daft-punk/</id>
     <title>Daft Punk</title>
     <content type="html">
