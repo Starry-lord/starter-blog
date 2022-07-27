@@ -1,8 +1,8 @@
 ---
 title: About
-date: 2019-07-09
-menu: ''
-draft: true
+date: 2022-07-27T06:00:00+02:00
+menu: main
+draft: false
 
 ---
 > La vie c'est de la merde Georgie, alors retourne travailler!
