@@ -1,8 +1,8 @@
 baseline: Death By Neon Music
 theme:
-  - hyde
-  - netlify
-  - netlify-cms
+  - music
+  - artist
+  - portfolio
 keywords:
   - Cecil
   - Static Site Generator
