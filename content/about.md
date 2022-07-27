@@ -1,10 +1,9 @@
 ---
 title: About
 date: 2019-07-09
-menu:
-  main:
-    weight: 999
+menu: ''
 draft: true
+
 ---
 > La vie c'est de la merde Georgie, alors retourne travailler!
 
