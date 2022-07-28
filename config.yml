@@ -1,10 +1,9 @@
 ---
 baseline: Death By Neon Music
 theme:
-- netlify-cms
+- garth
 - netlify
 - hyde
-- garth
 keywords:
 - movie score artist
 - movie score
