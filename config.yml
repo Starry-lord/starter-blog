@@ -1,6 +1,7 @@
 ---
 baseline: Death By Neon Music
 theme:
+- netlify-cms
 - garth
 - netlify
 - hyde
