@@ -1,13 +1,13 @@
 {
-  "name": "cecil/the-butler",
-  "description": "A ready to use static blog, powered by Cecil.",
+  "name": "DeathByNeon",
+  "description": "Death By Neon artist page",
   "license": "MIT",
   "type": "project",
   "authors": [
     {
-      "name": "Arnaud Ligny",
-      "email": "arnaud@ligny.fr",
-      "homepage": "https://arnaudligny.fr",
+      "name": "star-lord",
+      "email": "starrybot@starrylord.ch",
+      "homepage": "https://starrylord.ch",
       "role": "Developer"
     }
   ],
